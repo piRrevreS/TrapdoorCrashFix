@@ -1,0 +1,6 @@
+name: TrapdoorCrashFix
+version: '${project.version}'
+main: me.pirrevres.trapdoorcrashfix.TrapdoorCrashFix
+api-version: '1.13'
+authors: [piRrevreS]
+website: https://github.com/piRrevreS
